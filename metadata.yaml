@@ -1,0 +1,28 @@
+_repo: --_7383
+_version: 0.0.1
+alternative_title: Shangzi
+creator:
+  author:
+    agent_name: Shang, Yang
+    alias: 商鞅
+    deathdate: -338
+    gutenberg_agent_id: '2452'
+    url: http://www.gutenberg.org/2009/agents/2452
+    wikipedia: http://en.wikipedia.org/wiki/Shang_Yang
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7383'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shang, Yang, d. 338 B.C.'
+- !lcc 'JC'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcsh 'China -- Politics and government -- To 221 B.C.'
+- GITenberg
+title: 商子
+url: http://www.gutenberg.org/ebooks/7383
