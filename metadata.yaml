@@ -1,6 +1,9 @@
 _repo: --_7383
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Shangzi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shang, Yang
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2452
     wikipedia: http://en.wikipedia.org/wiki/Shang_Yang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7383#--
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
